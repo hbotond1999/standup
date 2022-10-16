@@ -1,3 +1,6 @@
+# Android, ios
+https://betterprogramming.pub/how-to-convert-your-angular-application-to-a-native-mobile-app-android-and-ios-c212b38976df
+
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
